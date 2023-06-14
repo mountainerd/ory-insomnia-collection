@@ -1,0 +1,9 @@
+_id: wrk_e793c3f7506642bdbeff96191f4f40ba
+type: Workspace
+parentId: null
+modified: 1686783468148
+created: 1686783468148
+name: ory-insomnia-collection.git
+description: Insomnia Workspace for
+  git+https://github.com/mountainerd/ory-insomnia-collection.git}
+scope: design

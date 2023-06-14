@@ -1,0 +1,24 @@
+_id: req_6131097da4184ea4afb7c63b5df8ce60
+type: Request
+parentId: wrk_e793c3f7506642bdbeff96191f4f40ba
+modified: 1686783929846
+created: 1686783910803
+url: https://ory.com/admin/identities
+name: New Request
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication:
+  type: bearer
+  token: adsf
+  prefix: asdf
+metaSortKey: -1686783910803
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
